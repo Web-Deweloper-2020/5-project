@@ -1,0 +1,206 @@
+body{
+	font-size: 16px;
+	background-color: rgb(156,181,203)
+}
+
+.container{
+	margin: 0;
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	width: 500px;
+	height: 600px;
+	/*border: 1px solid red;*/
+	background-color: #fff;
+
+
+}
+
+h3{
+	color: white;
+}
+
+.header{
+	text-transform: uppercase;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 20px;
+	width: 500px;
+	height: 80px;
+	/*border: 1px red solid;*/
+	background-color: rgb(106,150,216);
+}
+
+img:hover{
+	color: blue;
+}
+
+hr{
+	padding: 0;
+	margin: 0;
+	border: none;
+	background-color: rgb(231,234,235);
+	height: 1px;
+	width: 200px;
+}
+
+
+.hr{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: grey;
+}
+
+h4{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 70px;
+	color: rgb(231,234,235);
+	/*border: 1px  solid red;*/
+}
+
+.side{
+	display: flex;
+	align-items: center;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 50px;
+	/*border: 1px solid blue;*/
+	background-color: rgb(228,235,245);
+	border-radius: 5px;
+}
+
+.ride-side{
+	display: flex;
+	justify-content: flex-end;
+	/*border: 3px solid black;*/
+	margin-left: auto;
+	text-align: left;
+	background-color: rgb(241,239,241);
+}
+
+p{
+	display: flex;
+	align-items: center;
+	padding: 0;
+	margin: 0;
+	padding-left: 2px;
+	box-sizing: border-box;
+	height: 40px;
+	width: 300px;
+	font-weight: bold;
+	/*border: 1px solid red;*/
+}
+
+.time{
+	margin-left: 20px;
+	width: 40px;
+	color: rgb(176,177,178);
+	/*border: 1px solid green;*/
+}
+
+.time-right{
+	width: 40px;
+	/*border: 1px solid green;*/
+	margin-left: auto;
+	margin-right: 20px;
+}
+
+.left-side-2{
+	/*margin-bottom: 30px;*/
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 5px;
+	width: 100px;
+	height: 50px;
+	/*border: 1px solid blue;*/
+}
+
+.ride-side-2{
+	/*margin: 0;*/
+	margin-left: auto;
+	width: 220px;
+	/*border: 1px solid black;*/
+	background-color: rgb(246,179,187);
+	margin-bottom: 25px;
+	font-size: 17px;
+}
+
+.ride-side-2 p{
+	width: 250px;
+}
+
+.bottom-hr{
+	display: flex;
+	width: 500px;
+	justify-content: center;
+}
+
+.bottom-hr hr{
+	width: 460px;	
+}
+
+.sending{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/*border: 1px solid red;*/
+	margin-top: 20px;
+}
+
+input{
+	margin: 0;
+	padding: 0;
+	/*margin-top: 20px;*/
+	margin-left: 19px;
+	width: 400px;
+	height: 30px;
+	border: none;
+	outline: none;
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+
+.sending a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-right: 20px;
+	/*border: 1px solid red;*/
+	height: 30px;
+	/*width: 50px;*/
+	font-size: 25px;
+	text-decoration: none;
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
